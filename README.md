@@ -1,6 +1,7 @@
 # Election_Analysis
 
 ## Overview of Election Audit: 
+
 This analyis tool was designed to take election data and process it to break down votes by county and candidate in order to make the data easy to read.
 
 ## Election-Audit Results: 
@@ -24,5 +25,5 @@ Below is an image of the final results broken down by county and candidate.
   * The winner of the election was Diana DeGette with 73.8% of the vote for a total of 272,892.
   
 ## Election-Audit Summary: 
-### In a summary statement, provide a business proposal to the election commission on how this script can be used—with some modifications—for any election. Give at least two examples of how this script can be modified to be used for other elections.
-his analyis tool was designed to take election data and process it to break down votes by county and candidate in order to make the data easy to read. With this tool we learned that 369,711 total votes were cast. Of those, Denver had the most votes cast with 82.5% of the votes for a total of 306,055. Jefferson had the second most votes with 10.5% for a total of 38,855. Arapahoe had the least votes with 6.7% for a total of 24,801. We also found that the winner of the election was Diana DeGette with 73.8% of the vote for a total of 272,892. She was followed by Charles Casper Stocham who had 23% of the votes for a total of 85,213. In third place was Raymon Anthony Doane who had 3.1% of the votes for a total of 11,606. This same script could be applied to future elections of that same kind or could easily be modified to fit other elections by adding things like congressional districts or states for larger elections. We could also make scripts to collect and process voter data such as age, sex, or party for market research purposes.
+
+This analyis tool was designed to take election data and process it to break down votes by county and candidate in order to make the data easy to read. With this tool we learned that 369,711 total votes were cast. Of those, Denver had the most votes cast with 82.5% of the votes for a total of 306,055. Jefferson had the second most votes with 10.5% for a total of 38,855. Arapahoe had the least votes with 6.7% for a total of 24,801. We also found that the winner of the election was Diana DeGette with 73.8% of the vote for a total of 272,892. She was followed by Charles Casper Stocham who had 23% of the votes for a total of 85,213. In third place was Raymon Anthony Doane who had 3.1% of the votes for a total of 11,606. This same script could be applied to future elections of that same kind or could easily be modified to fit other elections by adding things like congressional districts or states for larger elections. We could also make scripts to collect and process voter data such as age, sex, or party for market research purposes.
